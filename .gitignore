@@ -1,0 +1,17 @@
+# compiled binaries
+ground_truth_sampler
+ground_truth_full_row_sampler
+ground_truth_for_specific_rows
+
+# large data files
+*.bin
+*.csv
+*.txt
+*.zst
+
+# python cache
+__pycache__/
+*.pyc
+
+# core dumps
+core.*
